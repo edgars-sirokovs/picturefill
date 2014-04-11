@@ -4,8 +4,9 @@ A Responsive Images approach that you can use today that mimics the [proposed pi
 
 * Author: Scott Jehl (c) 2012
 * License: MIT/GPLv2
-*
-*
+
+
+----
 * Forked for personal needs by Edgars S.
 
 **Froked from:** [http://scottjehl.github.io/picturefill/](http://scottjehl.github.io/picturefill/)
